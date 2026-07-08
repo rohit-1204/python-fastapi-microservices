@@ -1,0 +1,1 @@
+Run:\npip install -r requirements.txt\nuvicorn app:app --reload --port 8001\n
